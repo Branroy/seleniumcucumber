@@ -1,0 +1,4 @@
+app\pageobjects\SingUpServices.class
+app\pageobjects\SingUpPageObject.class
+app\stepdefinitions\SignUpStepDefs.class
+CucumberTest.class
